@@ -49,4 +49,9 @@ Code and solutions are for educational and reference purposes only.
 
 ## 🏅 CS50AI Certificate
 
-![CS50AI Certificate](.jpg)
+![CS50AI Certificate](CS50AI.png)
+
+
+
+
+
