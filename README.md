@@ -34,6 +34,14 @@ Additional files (like test scripts or datasets) are included where needed.
 
 ---
 
+## Tools & Technologies
+- Python 3.10+
+- Jupyter Notebook & VS Code
+- Libraries: numpy, pandas, scikit-learn, tensorflow, nltk
+- Course platform: CS50 AI on edX
+
+---
+
 ##  Purpose
 
 This repository documents my journey through the CS50AI course — a foundational step toward mastering Python programming and preparing for more advanced CS and AI concepts.
